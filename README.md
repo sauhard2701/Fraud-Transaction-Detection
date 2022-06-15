@@ -5,5 +5,6 @@ This case requires trainees to develop a model for predicting fraudulent transac
 If you are running on your local machine, 
 <br>Download the dataset: https://drive.google.com/file/d/1CZ7qiwnC3V7SWuvydjtmlFPJmv24Lssn/view?usp=sharing
 
+If you are running on google colab, 
 Google colab Link: https://drive.google.com/file/d/1KpSMqYnD_0eGpkZcuVfP16wkXUO28EuV/view?usp=sharing
 <br>or just add this line before reading the data- ! gdown --id 1CZ7qiwnC3V7SWuvydjtmlFPJmv24Lssn 
