@@ -3,8 +3,7 @@ This case requires trainees to develop a model for predicting fraudulent transac
 
 ### Implementing
 If you are running on your local machine, 
-<br>Download the dataset: https://drive.google.com/file/d/1CZ7qiwnC3V7SWuvydjtmlFPJmv24Lssn/view?usp=sharing
+<br>Download the dataset: https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data
 
 If you are running on google colab, 
-<br>Google colab Link: https://drive.google.com/file/d/1KpSMqYnD_0eGpkZcuVfP16wkXUO28EuV/view?usp=sharing
-<br>or just add this line before reading the data- ! gdown --id 1CZ7qiwnC3V7SWuvydjtmlFPJmv24Lssn 
+<br>Kaggle Notebook: https://www.kaggle.com/code/sauhardsaini/fraud-detection-dtrf/notebook
